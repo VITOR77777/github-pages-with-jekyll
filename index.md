@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Olá como vâo? Espero *que* bem.
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
